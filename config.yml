@@ -1,7 +1,7 @@
 ---
-:api_key: 38da38287439c834dfb47badb635edb8
-:password: 8cd13c03d0535ed6cdebd367b6f03d73
-:store: timberpile.myshopify.com
+:api_key: 
+:password: 
+:store: 
 :theme_id: 
 :whitelist_files:
 - layout/
